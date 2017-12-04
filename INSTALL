@@ -1,0 +1,9 @@
+Building POINTS
+
+See doc/readme-qt.rst for instructions on building POINTS QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of POINTS.
+
+See doc/build-*.txt for instructions on building POINTSd,
+the intended-for-services, no-graphical-interface, reference
+implementation of POINTS.
